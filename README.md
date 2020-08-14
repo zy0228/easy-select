@@ -1,4 +1,5 @@
 # easy-select (小程序版uniapp)
+*一款轻量级Select组件, 使用快捷功能强大! 体验一下吧* 
 ### Basic example
 ```
 <template>
@@ -37,7 +38,7 @@ ___
 | options          | Array   | false   | options选项数据                    |
 ---
 ### Notice
-+ options的格式：仿照[Element-ui](https://element.eleme.cn/#/zh-CN/component/select)element-ui的select格式即可
++ options的格式：仿照[Element-ui](https://element.eleme.cn/#/zh-CN/component/select)的select格式即可
 + 完全的尺寸定制化.你可以直接这样来修改, 或者使用我们提供的三种尺寸
 ```
 <easy-select style="width: 300px;heght: 200px"></easy-select>
@@ -46,4 +47,4 @@ ___
 ### finally
 同样的如果你可以，也鼓励你可以在我的基础上自己魔改~
 另外这是我另外一个作品, 同样的好用快捷强大[easy-tabBar](https://ext.dcloud.net.cn/plugin?id=2221)。
-最后，如果喜欢的话github地址 [github](https://github.com/zy0228/easy-select) 点个赞吧
+最后，如果喜欢的话去 [github](https://github.com/zy0228/easy-select) 点个赞吧
