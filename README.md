@@ -1,5 +1,5 @@
 # easy-select (小程序版uniapp)
-*一款轻量级Select组件, 使用快捷功能强大! 体验一下吧* 
+*一款轻量级Select组件, 使用快捷功能强大! 体验一下吧https://ext.dcloud.net.cn/plugin?id=2511* 
 ### Basic example
 ```
 <template>
